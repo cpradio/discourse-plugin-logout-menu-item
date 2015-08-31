@@ -1,6 +1,6 @@
 # name: discourse-logout-menu-item
 # about: Add a logout link to the user menu
-# version: 0.2
+# version: 0.3
 # authors: Matthew Wilkin
 # url: https://github.com/cpradio/discourse-logout-menu-item
 
