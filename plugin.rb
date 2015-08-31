@@ -5,3 +5,5 @@
 # url: https://github.com/cpradio/discourse-logout-menu-item
 
 enabled_site_setting :discourse_logout_menu_item_enabled
+
+register_asset "stylesheets/logout-menu-item.scss"
