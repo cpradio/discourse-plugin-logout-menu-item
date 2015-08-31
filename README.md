@@ -1,6 +1,6 @@
 # Discourse Logout Menu Item
 
-This plugin adds a logout option to the hamburger menu in Discourse.
+This plugin adds a logout option to the user menu in Discourse.
 
 ![](https://raw.githubusercontent.com/cpradio/discourse-logout-menu-item/master/screenshot.png)
 
