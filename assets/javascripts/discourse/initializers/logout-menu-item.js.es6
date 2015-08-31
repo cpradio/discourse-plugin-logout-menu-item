@@ -1,9 +1,9 @@
-import HamburgerMenuComponent from 'discourse/components/hamburger-menu';
+import UserMenuComponent from 'discourse/components/user-menu';
 
 export default {
     name: 'logout-menu-item',
     initialize: function() {
-        HamburgerMenuComponent.reopen({
+        UserMenuComponent.reopen({
             actions: {
                 logout() {
                     Discourse.User.logout();
