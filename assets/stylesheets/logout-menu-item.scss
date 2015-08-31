@@ -1,5 +1,7 @@
 .logout-menu-item {
-  display: block;
+  a {
+    display: block;
+  }
   &:hover {
     background-color: dark-light-diff($highlight, $secondary, 50%, -55%);
   }
