@@ -11,7 +11,7 @@ This plugin adds a logout option to the user menu in Discourse.
 
 ## Installation
 
-Clone this repository in your Discourse plugins directory, rebuild the container and you are all set.
+Follow the directions at [Install a Plugin](https://meta.discourse.org/t/install-a-plugin/19157) using https://github.com/cpradio/discourse-logout-menu-item.git as the repository URL.
 
 ## Authors
 
