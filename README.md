@@ -7,11 +7,11 @@ Discourse has added a site setting to core to enable the Log Out menu item. Just
 
 This plugin adds a logout option to the user menu in Discourse.
 
-![](https://raw.githubusercontent.com/cpradio/discourse-logout-menu-item/master/screenshot.png)
+![](https://raw.githubusercontent.com/cpradio/discourse-plugin-logout-menu-item/master/screenshot.png)
 
 ## Installation
 
-Follow the directions at [Install a Plugin](https://meta.discourse.org/t/install-a-plugin/19157) using https://github.com/cpradio/discourse-logout-menu-item.git as the repository URL.
+Follow the directions at [Install a Plugin](https://meta.discourse.org/t/install-a-plugin/19157) using https://github.com/cpradio/discourse-plugin-logout-menu-item.git as the repository URL.
 
 ## Authors
 

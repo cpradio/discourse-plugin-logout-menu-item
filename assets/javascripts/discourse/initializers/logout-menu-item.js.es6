@@ -4,12 +4,14 @@ import User from 'discourse/models/user';
 export default {
   name: 'logout-menu-item',
   initialize: function() {
-    UserMenuComponent.reopen({
-      actions: {
-        logout() {
-          User.logout();
+    if (Discourse.SiteSettings.logout_menu_item_enabled) {
+      UserMenuComponent.reopen({
+        actions: {
+          logout() {
+            User.logout();
+          }
         }
-      }
-    });
+      });
+    }
   }
 };
